@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/curriculo-online/static/css/main.04dc42d5.css",
-    "main.js": "/curriculo-online/static/js/main.a82b41d9.js",
+    "main.js": "/curriculo-online/static/js/main.ce0e338e.js",
     "static/js/488.d6d509fd.chunk.js": "/curriculo-online/static/js/488.d6d509fd.chunk.js",
     "index.html": "/curriculo-online/index.html",
     "main.04dc42d5.css.map": "/curriculo-online/static/css/main.04dc42d5.css.map",
-    "main.a82b41d9.js.map": "/curriculo-online/static/js/main.a82b41d9.js.map",
+    "main.ce0e338e.js.map": "/curriculo-online/static/js/main.ce0e338e.js.map",
     "488.d6d509fd.chunk.js.map": "/curriculo-online/static/js/488.d6d509fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04dc42d5.css",
-    "static/js/main.a82b41d9.js"
+    "static/js/main.ce0e338e.js"
   ]
 }
